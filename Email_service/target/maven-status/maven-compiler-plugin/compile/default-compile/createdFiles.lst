@@ -1,0 +1,3 @@
+com\tvm\Email_service\controller\mailservice_controller.class
+com\tvm\Email_service\service\mail_service.class
+com\tvm\Email_service\EmailServiceApplication.class
